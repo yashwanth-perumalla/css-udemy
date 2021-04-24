@@ -1,0 +1,10 @@
+    .sampletext {
+        font-family: impact, haettenschweiler, "frankin gothic bold", "arial black", "sans-serief";
+        font-size: 18pt;
+        color: rgba(110, 14, 14, 0.842);
+        width: 60px;
+        border: solid 2px #000;
+        padding: 10px;
+        margin-left: 700px;
+        background-color: #000;
+    }
